@@ -1,4 +1,3 @@
-# nanoos
 # Nano OS #
 An object oriented OS written in C++ and assembly.
 ## How to ##
@@ -56,25 +55,25 @@ Next modify IStream subsystem to handle int, pointer, HEX etc...
 ## Screen Shots ##
 **NanoOS Booting the GRUB screen**
 
-![http://nanoos.googlecode.com/files/nanoos-grub.png](http://nanoos.googlecode.com/files/nanoos-grub.png)
+![https://web.archive.org/web/20150429192945/http://nanoos.googlecode.com/files/nanoos-grub.png](https://web.archive.org/web/20150429192945/http://nanoos.googlecode.com/files/nanoos-grub.png)
 
 
 **NanoOS Shell with remains of other tasks**
 
-![http://nanoos.googlecode.com/files/nanoos-shell1.png](http://nanoos.googlecode.com/files/nanoos-shell1.png)
+![https://web.archive.org/web/20150429193008/http://nanoos.googlecode.com/files/nanoos-shell1.png](https://web.archive.org/web/20150429193008/http://nanoos.googlecode.com/files/nanoos-shell1.png)
 
 
 **NanoOS Shell Prompt ready**
 
-![http://nanoos.googlecode.com/files/nanoos-shell2.png](http://nanoos.googlecode.com/files/nanoos-shell2.png)
+![https://web.archive.org/web/20150429193046/http://nanoos.googlecode.com/files/nanoos-shell2.png](https://web.archive.org/web/20150429193046/http://nanoos.googlecode.com/files/nanoos-shell2.png)
 
 **NanoOS Shell Showing Tasks with there states and parent and number of children**
 
-![http://nanoos.googlecode.com/files/nanoos-tasks.png](http://nanoos.googlecode.com/files/nanoos-tasks.png)
+![https://web.archive.org/web/20150429193109/http://nanoos.googlecode.com/files/nanoos-tasks.png](https://web.archive.org/web/20150429193109/http://nanoos.googlecode.com/files/nanoos-tasks.png)
 
 **NanoOS shell showing pci info in qemu( my BOCHS doesnt have PCI ???)**
 
-![http://nanoos.googlecode.com/files/nanos-pci-listing.png](http://nanoos.googlecode.com/files/nanos-pci-listing.png)
+![https://web.archive.org/web/20150429193143/http://nanoos.googlecode.com/files/nanos-pci-listing.png](https://web.archive.org/web/20150429193143/http://nanoos.googlecode.com/files/nanos-pci-listing.png)
 ## change log ##
 9th december 2008: Kmalloc kfre krealloc implementation based on Chris gheeze's Heap based first fit allocator
 
